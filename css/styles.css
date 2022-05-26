@@ -167,4 +167,12 @@ p {
     width: 60%;
     position: static;
   }
+  .nav-link
+  {
+    font-size: 2rem;
+    font-weight: 600;
+  }
+  .navbar-toggler-icon {
+    font-size:3rem;
+  }
 }
